@@ -13,7 +13,7 @@ RUN npm install
 # Copy the entire app directory ,.editedff
 COPY . .
 
-# Expose React development server port (default: 3000) sample]
+# Expose React development server port (default: 3000) sample]cc
 EXPOSE 3000
 
 # Start the development server
