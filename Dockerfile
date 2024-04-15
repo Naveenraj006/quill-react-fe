@@ -10,7 +10,7 @@ COPY package*.json ./
 # Install dependencies
 RUN npm install
 
-# Copy the entire app directory
+# Copy the entire app directory ,.edited
 COPY . .
 
 # Expose React development server port (default: 3000)
