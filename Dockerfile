@@ -1,4 +1,4 @@
-# Base image for the React app
+# Base image for the React app / test
 FROM node:lts-alpine AS builder
 
 # Set working directory
